@@ -15,7 +15,10 @@
   "keywords": [],
   "author": "Rawallon Cardoso",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "debug": "^4.3.4",
+    "detect-port-alt": "^1.1.6"
+  },
   "devDependencies": {
     "concurrently": "^6.0.0"
   }

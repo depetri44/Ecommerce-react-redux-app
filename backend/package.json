@@ -18,10 +18,11 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-async-handler": "^1.1.4",
-    "jsonwebtoken": "^8.5.1",
-    "mercadopago": "^1.5.5",
+    "jsonwebtoken": "^9.0.0",
+    "mercadopago": "^0.0.6",
     "mongoose": "^5.11.15",
-    "multer": "^1.4.2"
+    "multer": "^1.4.2",
+    "stringify": "^5.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
